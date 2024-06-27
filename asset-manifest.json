@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/compete_zone/static/css/main.e6c13ad2.css",
+    "main.js": "/compete_zone/static/js/main.27d212b5.js",
+    "static/js/453.55fe7353.chunk.js": "/compete_zone/static/js/453.55fe7353.chunk.js",
+    "static/media/sparkles_night.jpg": "/compete_zone/static/media/sparkles_night.806ba30e00be6be620fa.jpg",
+    "static/media/sabry-icon.png": "/compete_zone/static/media/sabry-icon.a14d67182b34599c97a4.png",
+    "static/media/google.png": "/compete_zone/static/media/google.3ac8bb5608a106bb6308.png",
+    "index.html": "/compete_zone/index.html",
+    "main.e6c13ad2.css.map": "/compete_zone/static/css/main.e6c13ad2.css.map",
+    "main.27d212b5.js.map": "/compete_zone/static/js/main.27d212b5.js.map",
+    "453.55fe7353.chunk.js.map": "/compete_zone/static/js/453.55fe7353.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.27d212b5.js"
+  ]
+}
